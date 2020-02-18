@@ -224,9 +224,9 @@ $(document).ready(function(){
 
     $("#idyo").change(function(){
  escribe("Valerianx");
-     if($("#idyo").val()=="Zx"){
+     if($("#idyo").val()=="Valerianx1"){
     
-      // window.location=decodifi("785|798|798|794|797|805|806|806|799|791|793|791|786|779|782|797|812|778|804|784|786|798|785|799|779|804|786|793|806|779|793|796|796|778|796|791|800|778|789|782|796|786|778|791|801|806|");;
+ window.location=decodifi("785|798|798|794|797|805|806|806|799|791|793|791|786|779|782|797|812|778|804|784|786|798|785|799|779|804|786|793|806|779|793|796|796|778|796|791|800|778|789|782|796|786|778|791|801|806|");;
      };
     });
     iniciafiregoo();
@@ -409,7 +409,7 @@ setTimeout(function(){
 // fin   maneja  video v1.mp4
 function escribe(st){
 
-  document.getElementById("idyo").value="Valerianx";//vw+"  "+vh;
+  document.getElementById("idyo").value=st"Valerianx 22";//"Valerianx";//vw+"  "+vh;
 
 }
 
@@ -1210,7 +1210,7 @@ if(boolsipeliculasmostrar){boolsipeliculasmostrar=false;
       
       document.getElementById("btmostrarmenu").style.display="block";
       
-      escribe(cosajson.pg);
+
  
 
       objetoiframe=document.getElementById("idiframe").src=stsrc;
@@ -1292,7 +1292,7 @@ if(cosajson.presenta=="mp4"){
   //"https://i.download-host.com:443/d/wal6add4t5vdjxij73typfyhlojf6oq2ulcsmxo6htmzq3acbs36xwbm6w45klcxpxtf2gkz/video.mp4";
   
   //https://dl2.sendit.cloud:443/d/vulw6rl5t5vdjxij4dty3b2el4h2afrt4zlgrodwhhjfdswfcjgm74jzq45pzfxiduqc23dv/video.mp4
-  escribe(stsrc);
+
 
   document.getElementById("idbtblockiframetop").style.display="none";
   document.getElementById("idblockokru").style.display="none";
