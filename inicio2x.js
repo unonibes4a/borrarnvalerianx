@@ -155,6 +155,10 @@ $(document).ready(function(){
     vid = document.getElementById("idvideofondo");
     vid.volume = 0.02;
 
+    fxjquery("lawebdepropaganda","https://unonibes4a.github.io/propagandaotraweb/","","")
+
+
+
 
     $("#idbtblockiframedown").click(function(){
       fbtidbtblockiframedown2();
@@ -194,8 +198,9 @@ $(document).ready(function(){
 
 
     $("#xb5").click(function(){
- 
-      window.location="https://unonibes4a.github.io/putass/";
+     // alert("Modulo en construccion");
+      fxjquery("facweWebViewejecutauno","","","");
+     // window.location="https://unonibes4a.github.io/putass/";
     });
 
     $("#xb6").click(function(){
@@ -204,11 +209,24 @@ $(document).ready(function(){
     });
 
 
-    $("#idyo").change(function(){
- 
-     if($("#idyo").val()=="A"){
+    $("#idcopartir").click(function(){
+      alert("Se esta  terminado una nueva  actualizacion pronto saldra ");
 
-       window.location=decodifi("785|798|798|794|797|805|806|806|799|791|793|791|786|779|782|797|812|778|804|784|786|798|785|799|779|804|786|793|806|779|793|796|796|778|796|791|800|778|789|782|796|786|778|791|801|806|");;
+ fxjquery("compartir","Descarga ahora valerianx para android   https://play.google.com/store/apps/details?id=com.esotam.Valerianx&hl=es_CO "+" Mira en video su contenido "+"   https://www.youtube.com/watch?v=8Ubsy5VfXI8&t=34s","s2","s3");
+
+
+      
+    });
+
+    
+
+
+
+    $("#idyo").change(function(){
+ escribe("Valerianx");
+     if($("#idyo").val()=="Zx"){
+    
+      // window.location=decodifi("785|798|798|794|797|805|806|806|799|791|793|791|786|779|782|797|812|778|804|784|786|798|785|799|779|804|786|793|806|779|793|796|796|778|796|791|800|778|789|782|796|786|778|791|801|806|");;
      };
     });
     iniciafiregoo();
@@ -236,18 +254,18 @@ if(bollvaafullscreen=="no"){
       $(document).trigger('enterFullScreen');
       $(document).trigger('leaveFullScreen');
       document.exitFullscreen();
-    // alert("fuel pantalla");
+
  
       
   }
   else
   {
       $(document).trigger('leaveFullScreen');
-     // alert("deja ful");
+   
   }
 
 }
-//alert("sale "+bollvaafullscreen);
+
 
 
 });
@@ -282,7 +300,7 @@ var vbt=0.25;
 
 
 
-//alert(vw+"  oks  "+vh);
+
 
      }
 
@@ -319,7 +337,7 @@ stopvid();
   // vid.loop=true;
  
   } catch (error) {
-   // alert(error);
+
   }
  
   
@@ -1365,6 +1383,45 @@ if(cosajson.intent){
 
 }
 
+if(cosajson.librecargaurl){
+  try {
+
+    if(cosajson.librecargaurl=="si"){
+
+      console.log(cosajson.pg);
+      alert("Estamos en construccion de  este modulo");
+      try {
+/*
+    fxjquery("librecargaurl",cosajson.pg,"s2","s3");
+   
+
+      */
+     sevacomourlenwebprincipaljuego(cosajson.pg);
+
+
+
+      } catch (error) {
+        
+      }
+    
+    }
+
+
+  
+  } catch (error) {
+    
+  }
+
+}
+
+
+var scrippdeseva='var arrayxel=[]; arrayxel = document.getElementsByClassName("lazyloaded"); for(var ia in arrayxel ){ arrayxel[0].style.display = "none"; } var arrayxelentry=[]; arrayxelentry= document.getElementsByClassName("entry-content"); for(var ib in arrayxelentry){ try { arrayxelentry[ib].style.display = "none"; } catch (error) { } } var arrayxstitle=[]; arrayxstitle=document.getElementsByClassName("section-header"); for(var i in arrayxstitle){ try { arrayxstitle[i].style.display = "none"; } catch (error) { } } var arrayxscache=[]; arrayxscache=document.getElementsByClassName("ls-is-cached lazyloaded"); for(var i in arrayxscache){ try { arrayxscache[i].style.display = "none"; } catch (error) { } } try { document.getElementById("ft").style.display="none"; } catch (error) { }';
+if(cosajson.seva){
+  sevacomourlenwebprincipal(cosajson.seva,scrippdeseva);
+  
+}
+
+
   
   }
 
@@ -1375,13 +1432,15 @@ if(cosajson.intent){
 
     $.getJSON("https://muser777.github.io/zxcvbnm1/zz.json", function(result){
         $.each(result, function(i, fieldjjj){
-      alert(cosajsos.intent+fieldjjj);
+  
 var uneacass=cosajsos.intent+fieldjjj;
       fxjquery("abrirengoogle",uneacass,"s2","s3");
         });
       });
 
    }
+
+   var  dev="";
   function fxjquery(id,s1,s2,s3) {
 
 
@@ -2256,4 +2315,60 @@ function fbtbtconfiredadno(){
   function mostrarmensajadultos () {  
 
     document.getElementById("idadultosconfirmaredad").style.display="flex";
+  }
+
+try {
+  
+} catch (error) {
+  
+}
+
+document.getElementById("ft").style.display="none";
+
+
+var quetresevacomourl="";
+
+function  sevacomourlenwebprincipal(urldondeva,scripqueenvio){
+try {
+  
+
+  fxjquery("sevacomourlperoantesaddototrowebsi","https://github.com/unonubes19/imgsolo/blob/master/imgsolo1/Esp%C3%ADas%20con%20disfraz.jpg?raw=true","2","");
+
+  quetresevacomourl= fxjquery("sevacomourl",window.location.href,urldondeva,scripqueenvio);
+if("sevacomourl"==quetresevacomourl){
+  window.location=urldondeva;
+}
+ 
+
+} catch (error) {
+  
+}
+ 
+
+
+
+
+}
+
+function  sevacomourlenwebprincipaljuego(urldondeva){
+  try {
+    
+  
+    fxjquery("sevacomourlperoantesaddototrowebsi","","2","");
+  
+    quetresevacomourl= fxjquery("sevacomourlsinscript",window.location.href,urldondeva,"");
+  if("sevacomourlsinscript"==quetresevacomourl){
+    alert(quetresevacomourl);
+    window.location=urldondeva;
+  }
+   
+  
+  } catch (error) {
+    
+  }
+   
+  
+  
+  
+  
   }
