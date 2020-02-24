@@ -222,8 +222,8 @@ background-color: rgba(0, 0, 0, 0.425);
     position: absolute;
     top: -3%;
     left: 10%;
-    width: 30%;
-    height: 70px;
+    width: 31%;
+    height: 77px;
     z-index: 4;  
     color: rgb(170, 9, 9);
     
@@ -856,4 +856,67 @@ color: rgba(16, 84, 212, 0.712);
     left:0%;
     width: 100%;
     height: 100%;
+  }
+
+  #idcomousarosaltarpaso{
+    position: absolute;
+    top: 0%;
+    left:0%;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-color: #000000;
+
+  }
+
+  #idvideousarvalerianx{
+    position: absolute;
+    top: 0%;
+    left:0%;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+
+  }
+
+
+  #idmenjsajeantesdeactuar{
+    position: absolute;
+    top: 0%;
+    left:0%;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    background-color: #0000002f;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: space-between;
+  }
+
+
+  #idbtoncomosusarya{
+
+    width: 100px;
+    height: 100px;
+    z-index: 3;
+    background-color: #07848833;
+  color: #ffffff;
+  font-size: 19px;
+  }
+  #idbtoncomosusarya2{
+
+    width: 100px;
+    height: 100px;
+    z-index: 3;
+    background-color: #07848833;
+  color: #ffffff;
+  font-size: 19px;
+  }
+
+  #ididvdivideeste{
+    width: 50px;
+
   }
